@@ -31,14 +31,27 @@ b.4)The correlation between the variables can affect the model accuracy. If two 
 
 ## Lab Assignment 2
 ### Part I
+#### The Dataset
+![image](https://github.com/VincentOracle/RapidMiner-Studio-RandomForest/assets/104081669/e6ba8acd-ffd2-4ef9-9c3f-81bd9ab6a7a5)
+
+### The RapidMiner studio
+![image](https://github.com/VincentOracle/RapidMiner-Studio-RandomForest/assets/104081669/7fd29833-d5b4-4527-adb6-6702af124499)
+
+![image](https://github.com/VincentOracle/RapidMiner-Studio-RandomForest/assets/104081669/8a7251b9-cb45-4525-a7c5-36dee9eab624)
+
+
 The variables included in the model as predictors were Passenger ID, sex, Pclas,  Fare, Embarked, Parch, Age and SibSP.These variables were flaged with either Orange or Green colors and also marked as shown below.
 
 
 ### Part II
 Random forest was found to be the best algorithm for the prediction. This is because it had the highest AUC of 0.903, this led to producing the best outcome.
+![image](https://github.com/VincentOracle/RapidMiner-Studio-RandomForest/assets/104081669/fe495744-bc8e-4c0f-934b-151f4d574838)
+
+
 
 ### Part III
 Sex was the most important predictor in the model. This can be determined by the weights in the correlations as shown below.
+![image](https://github.com/VincentOracle/RapidMiner-Studio-RandomForest/assets/104081669/9b0c14d2-4a14-4f7b-af7e-c4be2a36fae6)
 
 ### Part IV
 The file for the Random forest algorithm is exported as RandomForestPredictions.xls
