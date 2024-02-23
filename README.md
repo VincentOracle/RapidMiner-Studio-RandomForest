@@ -5,6 +5,30 @@ interactions with the data from preprocessing stage to model evaluation stage wi
 any use of programming language.
 This RapidMiner is intended to support all the functionalities across the AI ecosystem.
 
+## Introduction On RapidMiner Studio:
+The main motto of the RapidMiner tool is to collaborate and provide an interface
+to perform all the data science work. From providing multiple datasets, Machine
+Learning Algorithm, Visualizations and Model Deployment.
+Below are the major establishments of this RapidMiner —
+● This platform provides its user with different types of datasets where one can
+directly use them to build the models. However, rapidminer also supports loading
+data from different sources like Cloud, Relational Databases, NoSQL, Excel and
+CSV files.
+● The process of working with datasets is completely in drag and drop format. All
+the preprocessing, model building and visualization can be done without any
+code.
+● We need not build any supervised or unsupervised machine learning algorithm
+from scratch. RapidMiner tool also provides us all the required algorithms to
+perform Regression, Classification and Clustering.
+● We can train the data to provide optimal solutions. This also supports
+hyperparameter tuning to build an efficient algorithm.
+● RapidMiner also supports deploying our model into different platforms with the
+help of certain interfaces.
+● Once the model is deployed, with the help of interfaces we can collect and store
+the real time data.
+
+
+
 ## Prerequisites:
 The major prerequisites required before using this tool, One should be aware of
 basic calculus, algebra, Excel and basic workflow of machine learning models.
