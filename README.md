@@ -1,4 +1,5 @@
 # RAPIDMINER STUDIO
+## What is RapidMiner studio?
 RapidMiner is a Data Analytics and Data Science tool which provides the user all the
 interactions with the data from preprocessing stage to model evaluation stage without
 any use of programming language.
