@@ -27,3 +27,19 @@ b.3)To check for missing values, the “Data Cleansing” operator is also used.
 
 b.4)The correlation between the variables can affect the model accuracy. If two variables are highly correlated, they might provide redundant information, which can lead to overfitting of the model. On the other hand, if two variables are not correlated, they can provide complementary information which can help improve the accuracy of the model.
 ![image](https://github.com/VincentOracle/RapidMiner-Studio-RandomForest/assets/104081669/6f22cf29-7374-4c23-bc69-329aec4b1d31)
+
+
+## Lab Assignment 2
+### Part I
+The variables included in the model as predictors were Passenger ID, sex, Pclas,  Fare, Embarked, Parch, Age and SibSP.These variables were flaged with either Orange or Green colors and also marked as shown below.
+
+
+### Part II
+Random forest was found to be the best algorithm for the prediction. This is because it had the highest AUC of 0.903, this led to producing the best outcome.
+
+### Part III
+Sex was the most important predictor in the model. This can be determined by the weights in the correlations as shown below.
+
+### Part IV
+The file for the Random forest algorithm is exported as RandomForestPredictions.xls
+
